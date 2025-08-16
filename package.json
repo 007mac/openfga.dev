@@ -24,7 +24,7 @@
     "update:config-page": "node scripts/update-config-page.mjs"
   },
   "dependencies": {
-    "@docusaurus/core": "3.6.3",
+    "@docusaurus/core": "3.8.1",
     "@docusaurus/plugin-client-redirects": "3.6.3",
     "@docusaurus/preset-classic": "3.6.3",
     "@easyops-cn/docusaurus-search-local": "0.45.0",
